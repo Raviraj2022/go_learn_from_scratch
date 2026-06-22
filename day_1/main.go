@@ -8,3 +8,5 @@ func main() {  //It is main func, executes by default. when you run main package
 }
 
 // go run <dir>  (This is use for running you go files..)
+
+
